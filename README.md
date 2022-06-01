@@ -1,5 +1,5 @@
 # CMS-Scanner
-<img src="https://github.com/CyberGhostMalaya/CMS-Scanner/blob/main/2022-06-01%2021-52-26.mp4" height="325px">
+<img src="https://raw.githubusercontent.com/CyberGhostMalaya/CyberGhostMalaya/main/photo_2022-05-31_21-42-17.jpg" height="325px">
 
 ```
 Content Management System ( CMS ) Scanner By Cyber Ghost Malaya
