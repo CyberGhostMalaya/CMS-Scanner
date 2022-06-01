@@ -3,7 +3,6 @@
 import requests
 import os
 import sys
-from colorama import Fore
 from multiprocessing.pool import ThreadPool
 reload(sys)
 
